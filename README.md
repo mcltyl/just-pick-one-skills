@@ -25,17 +25,17 @@ Works with Claude Code, Codex CLI, OpenClaw, and any Agent Skills-compatible too
 
 ### npx skills
 ```bash
-npx skills add git@github.com:mcltyl/just-pick-one.git
+npx skills add git@github.com:mcltyl/just-pick-one-skills.git
 ```
 
 ### Claude Code / Codex CLI
 ```bash
-git clone https://github.com/mcltyl/just-pick-one.git ~/.claude/skills/just-pick-one
+git clone https://github.com/mcltyl/just-pick-one-skills.git ~/.claude/skills/just-pick-one
 ```
 
 ### OpenClaw
 ```bash
-git clone https://github.com/mcltyl/just-pick-one.git ~/.openclaw/skills/just-pick-one
+git clone https://github.com/mcltyl/just-pick-one-skills.git ~/.openclaw/skills/just-pick-one
 ```
 
 ---
